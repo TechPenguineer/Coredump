@@ -27,7 +27,7 @@ Flask==2.0.1
 future==0.18.2
 gitsome==0.8.0
 gyp==0.1
-httplib2==0.18.1
+httplib2==0.19.0
 idna==2.10
 ifaddr==0.1.7
 imagesize==1.2.0
@@ -81,7 +81,7 @@ python-debian==0.1.39
 python-utils==2.2.0
 pytz==2021.1
 pyxdg==0.27
-PyYAML==5.3.1
+PyYAML==5.4
 readme-renderer==29.0
 reportlab==3.5.66
 requests==2.25.1
