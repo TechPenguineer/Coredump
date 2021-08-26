@@ -1,6 +1,8 @@
 <title>Coredump - Register</title>
 
 <body>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='./styles/bootstrap.css') }}">
+
     <header>
         <div class="topnav"></div>
     </header>
@@ -13,6 +15,7 @@
             <form method="POST">
                 <input placeholder="Username" name="usernameREG">
                 <input placeholder="Password" type="password" name="passwordREG">
+                <input value="Register" type="submit">
             </form>
         </div>
     </body>
